@@ -1,0 +1,15 @@
+{
+  "name": "testpromise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests adapter",
+    "test-native": "promises-aplus-tests adapter-native"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
